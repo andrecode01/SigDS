@@ -12,13 +12,13 @@ Além disso, ele também deve ser responsável pela formulação dos problemas, 
 
 *DATA SCIENTIST X BUSINESS ANALYST X DATA ANALYST
 
-  DATA SCIENTIST 
+  DATA SCIENTIST: 
   Participa da formulação do problema, hipóteses de resolução e análise de resultados.
 
-  BUSINESS ANALYST 
+  BUSINESS ANALYST: 
   Analisa os dados gerados em relação ao negócio ou empresa avaliada.
 
-  DATA ANALYST 
+  DATA ANALYST: 
   Analisa os dados disponibilizados em busca de solução para o problemas enfrentados.
  
 *DATA SCIENCE: BIG DATA 
