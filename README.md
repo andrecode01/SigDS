@@ -2,7 +2,7 @@
 
 
 
-*DATA SCIENCE/SCIENCIST
+*DATA SCIENCIST
 
 É responsável por transformar dados em informações ou produtos de informações dentro de uma corporação.
 
